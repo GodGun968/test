@@ -1,0 +1,41 @@
+{
+  "entity_xray.debug.init": "Entity-Xray 初始化",
+
+  "entity_xray.single.cancel": "取消",
+  "entity_xray.single.add": "添加",
+  "entity_xray.single.delete": "删除",
+  "entity_xray.single.save": "保存",
+  "entity_xray.single.tools": "工具",
+  "entity_xray.single.close": "关闭",
+  "entity_xray.single.search": "搜索",
+  "entity_xray.single.help": "帮助",
+
+  "entity_xray.overlay": "Entity-Xray 已激活",
+
+  "entity_xray.color.red": "红色: ",
+  "entity_xray.color.green": "绿色: ",
+  "entity_xray.color.blue": "蓝色: ",
+
+  "entity_xray.input.gui": "GUI 名称",
+  "entity_xray.input.add": "添加实体",
+
+  "entity_xray.title.config": "配置实体",
+  "entity_xray.title.edit": "编辑实体",
+  "entity_xray.title.edit_meta": "编辑元",
+
+  "entity_xray.message.added_block": "成功添加 %s.",
+  "entity_xray.message.updated_block": "条目已更新",
+  "entity_xray.message.remove_block": "%s 已被移除",
+  "entity_xray.message.removed": "成功删除 %s.",
+  "entity_xray.message.config_missing": "找不到配置文件.正在创建.",
+
+  "entity_xray.tooltips.add_block": "选择要添加到 Xray 的实体",
+  "entity_xray.tooltips.edit1": "点击启用/禁用",
+  "entity_xray.tooltips.edit2": "按住shift点击以编辑.",
+
+  "entity_xray.config.toggle": "切换 Entity-Xray",
+  "entity_xray.config.open": "打开 Entity-Xray 菜单",
+
+  "entity_xray.toggle.activated": "Entity-Xray 已激活",
+  "entity_xray.toggle.deactivated": "Entity-Xray 已禁用"
+}
