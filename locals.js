@@ -4410,7 +4410,7 @@ I18N.zh = {
                     "Required": "必须",
                 "Merging is blocked": "合并被阻止",
                 "Merging can be performed automatically once the requested changes are addressed.": "一旦请求的更改得到解决，合并就可以自动执行。",
-				" 个对话必须在合并前解决。": "",
+				" conversation must be resolved before merging.": "个对话必须在合并前解决。",
 
                 "The base branch restricts merging to authorized users.": "基础分支合并仅限于授权用户。",
                 "Learn more about protected branches.": "了解更多关于受保护分支的信息。",
